@@ -1,2 +1,2 @@
-# I made this repository to put all my certificates in one place only
+# I made this repository to attach all my certificates in just one place.
 
